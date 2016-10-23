@@ -38,7 +38,6 @@ test_dependencies = [
 ]
 
 dependencies = [
-  'distribute           >= 0.6.24',
   'RPi.GPIO             >= 0.5.5',
 ]
 
